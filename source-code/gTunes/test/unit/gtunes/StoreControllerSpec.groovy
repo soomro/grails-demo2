@@ -16,6 +16,6 @@ class StoreControllerSpec extends Specification {
     }
 
     void "test something"() {
-    	
+    	render "hi"
     }
 }

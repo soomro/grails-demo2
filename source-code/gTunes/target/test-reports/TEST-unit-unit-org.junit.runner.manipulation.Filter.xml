@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="soomropc.local" name="org.junit.runner.manipulation.Filter" tests="1" time="0.065" timestamp="2014-01-12T19:12:51">
+  <properties />
+  <testcase classname="org.junit.runner.manipulation.Filter" name="initializationError" time="0.063">
+    <error message="No tests found matching grails test target pattern filter from org.junit.runner.Request$1@3bd29ee4" type="java.lang.Exception">java.lang.Exception: No tests found matching grails test target pattern filter from org.junit.runner.Request$1@3bd29ee4
+</error>
+  </testcase>
+  <system-out><![CDATA[--Output from initializationError--
+]]></system-out>
+  <system-err><![CDATA[--Output from initializationError--
+]]></system-err>
+</testsuite>
