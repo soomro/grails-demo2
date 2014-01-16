@@ -8,6 +8,5 @@ class Song {
     static constraints = {
     	title blank: false
     	artist blank: false
-    	album blank: true
     }
 }
